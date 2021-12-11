@@ -14,5 +14,5 @@
 
 - Deleção de um ponto turístico por usuários autorizados
 
-- Sistema de autorização e autenticação do Django Rest Framework
+- Sistema de autorização e autenticação do Django Rest Framework.
 
