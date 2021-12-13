@@ -1,4 +1,8 @@
-##RESTful Web API para exposição de pontos turísticos de uma região##
+## ESTful Web API para exposição de pontos turísticos de uma região ##
+
+<p align="center">
+  <img width="460" height="400" src="imagens/RestFull-clinica.gif">
+</p>
 
 - Propor um novo ponto turístico
 
